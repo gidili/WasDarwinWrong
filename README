@@ -1,0 +1,5 @@
+This is my half-arsed dodgy javascript implementation of the *hello world* of genetic algorithms. 
+
+It's the same algorithm I used on TypingMonkey --> [ http://github.com/JohnIdol/typingmonkey ]
+
+Note: I am using mutation in this example but it is rather useless.
